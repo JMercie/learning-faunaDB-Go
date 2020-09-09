@@ -1,0 +1,5 @@
+github.com/fauna/faunadb-go v1.0.0 h1:WeveMTvi99E3RkJHNuMeJ1zD4Z0bXb3NT6/854HV6XU=
+github.com/fauna/faunadb-go v2.0.0+incompatible h1:b+iaebxQ37qQtQCEYpfatxeZVF+L0HTBTTrCMcV8itI=
+github.com/fauna/faunadb-go v2.0.0+incompatible/go.mod h1:WYAh1hNDFEgbsKKeUhsHPGIFkpQ1CGn/5XejAFfOhHg=
+github.com/joho/godotenv v1.3.0 h1:Zjp+RcGpHhGlrMbJzXTrZZPrWj+1vfm90La1wgB6Bhc=
+github.com/joho/godotenv v1.3.0/go.mod h1:7hK45KPybAkOC6peb+G5yklZfMxEjkZhHbwpqxOKXbg=
